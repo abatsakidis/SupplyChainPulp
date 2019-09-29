@@ -22,7 +22,7 @@ Consultant for boutique cake bakery that sell 2 types of cakes
 |-------| --------| -------|
 |Profit | $20.00  | $40.00 |
 
-Objective is to Maximize Pro
+Objective is to Maximize Profit
 * Profit = 20 * A + 40 * B
 
 Subject to:
