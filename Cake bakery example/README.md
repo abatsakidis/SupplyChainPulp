@@ -32,10 +32,3 @@ Subject to:
 * 1A + 2.5B <= 60
 * 1A + 2B <= 22
 
-## Common modeling process for PuLP ##
-
-1. Initialize Model
-2. Define Decision Variables
-3. Define Objective Function 
-4. Define the Constraints
-5. Solve Model
