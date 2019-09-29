@@ -12,5 +12,13 @@
   * Gurobi
   * etc…
   
+## Common modeling process for PuLP ##
+
+1. Initialize Model
+2. Define Decision Variables
+3. Define Objective Function 
+4. Define the Constraints
+5. Solve Model
+  
   
 
